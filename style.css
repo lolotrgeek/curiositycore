@@ -48,7 +48,7 @@ header {
 }
 
 .shadow-yellow {
-  box-shadow: 12px 12px 0px 0px rgba(255, 255, 0, 0.2);
+  box-shadow: 12px 12px 0px 0px rgba(255, 255, 0, .2);
 }
 
 .section h2 {
